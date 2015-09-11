@@ -1,0 +1,107 @@
+243 Puzzle Solver, Project Part 3:  Water, Clock, Chess, Jam
+
+Your Name: Quang Vu.
+Your chosen new puzzle (Chess or Jam): Chess 
+
+Teammate Name: Jeffrey Iadarola.
+
+
+A. DESIGN
+---------
+
+1. Explain, in detail, the design of your new puzzle, and how it "connects"
+to your common solver.
+
+	The chess puzzle implements the puzzle interface. The puzzle interface takes a
+generic type of puzzle so it will be able to take any type of puzzle. 	
+	The chess puzzle still uses the same solver class, and same solve function to solve
+the chess puzzle. For that reason, there is no problem with other puzzles. In addition, the solver
+takes a generic type of puzzle so it can takes many type of puzzles to do the work.
+
+
+
+2. What changes did you need to make to your existing design for part 2?
+
+	There is no change for the solver and puzzle. I only have to implements the chess 
+puzzle in order to get a correct neighbors of the configuration.
+
+
+
+
+3. Did you and your partner work together on any part of this assignment?
+If so, what exactly?   Please note, this was completely acceptable.
+
+Honestly, I did all the work for part two and three. My partner was sick during the second project,
+and busy during the third project.
+
+
+
+
+B. TEAM INTERACTION
+-------------------
+
+4. I felt that ____A___ puzzle was harder then the other.
+
+    A. my
+    B. my teammate's
+    C. neither
+    
+On a scale of:
+
+    1: Strong disagree
+    2: Disagree
+    3. Neutral
+    4. Agree
+    5. Strong Agree
+
+answer the following questions:
+
+5. I contributed to my teammate's puzzle: __1__
+    
+6. My teammate contributed to my puzzle: __1__
+
+7. If given the chance again, I would want to work with my teammate: __5__
+
+8. Please provide any additional feedback regarding your teammate.
+
+   I am not complaining about my teammate because he was busy and sick. However, 
+he should of notify me earlier, not the two days after the due date.
+
+
+
+
+9. What was the best part about being able to work on this project as a team?
+
+	Well, I worked on this alone so I did not experience teamwork in this project.
+
+
+10. Conversely, what was the worst part about being required to work in a team?
+
+	I think work together is always the best. I do not think it is a bad thing at all.
+
+
+
+
+
+C. INDIVIDUAL CONTRIBUTION
+--------------------------
+
+Using the same 1-5 scale, answer the following questions.
+
+11. I contributed to my puzzle: __5__
+
+12. I feel this is a good project to learn about OOP: __5__
+
+13. I personally learned a lot about OOP by doing this project: __5__
+
+14. I think this project was too difficult: __4__
+
+15. The lectures and labs provided adequate background for this project: __4__
+
+16. Please provide any additional feedback you have regarding this project.
+ 	I think this is a great project, and I have learned a lot. However, to be honest, this is 
+a very tough one. It took a lot of works and times to finish it completely. 
+
+
+
+
